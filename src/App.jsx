@@ -1,9 +1,9 @@
-import Card from "./components/card";
+import Home from "./pages/Home";
 
 function App() {
   return (
     <>
-      <Card />
+      <Home />
     </>
   );
 }

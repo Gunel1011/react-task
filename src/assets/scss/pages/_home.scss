@@ -1,6 +1,10 @@
-.home {
-  .container {
-    .row {
+.container {
+
+  .row {
+    .box {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
       .card {
         background-color: #bbd9e4;
         width: 300px;
