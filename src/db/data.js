@@ -56,7 +56,7 @@ export const data = [
     img: "https://turbo.azstatic.com/uploads/f460x343/2021%2F02%2F04%2F11%2F55%2F38%2Fe7b86878-7b1b-4e8c-86d3-661cfc891ac5%2F79535_DdvVC7HBpqZy7CCjNrVtow.jpg",
   },
   {
-    name: "Toyota Land Cruiser",
+    name: "Toyota Land",
     year: 2021,
     price: 118000,
     vol: 3.5,
